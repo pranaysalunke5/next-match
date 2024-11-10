@@ -1,12 +1,12 @@
-import React from 'react'
+import React from 'react';
 
 const About = () => {
   return (
-    <div>
-      About
-      
-    </div>
-  )
-}
+    <main>
+      <h1>About</h1>
+      <p>This is the About page of the Next.js project.</p>
+    </main>
+  );
+};
 
-export default About
+export default About;
